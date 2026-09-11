@@ -50,5 +50,5 @@
 - [] etc etc etc
 
 **Ключевые слова поиска:**
-английский: "automatic term extraction", "keyword extraction", "retrieval-augmented generation", "domain adaptation", "terminology extraction", "vector embeddings", "semantic clustering"
-русский: "автоматическое извлечение терминов", "извлечение ключевых слов", "терминологический анализ", "векторные представления", "доменная адаптация", "генерация с опорой на поиск"
+## английский: "automatic term extraction", "keyword extraction", "retrieval-augmented generation", "domain adaptation", "terminology extraction", "vector embeddings", "semantic clustering"
+## русский: "автоматическое извлечение терминов", "извлечение ключевых слов", "терминологический анализ", "векторные представления", "доменная адаптация", "генерация с опорой на поиск"
