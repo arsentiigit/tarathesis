@@ -46,7 +46,7 @@
 - [+] eLibrary
 - [+] CyberLeninka
 - [+] Google Scholar
-- [+] Диалог (2020-2026)
+- [+] arXiv.org
 - [] etc etc etc
 
 **Ключевые слова поиска:**
