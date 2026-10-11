@@ -1,20 +1,20 @@
 sourceN,final_number,source,URL
-source1,,Головин Б. Н., Кобрин Р. Ю. (1987). Лингвистические основы учения о термине. М.: Высшая школа,
-source2,,Лейчик В. М. (2007). Терминоведение: предмет, методы, структура. М.: ЛКИ,
-source3,,Суперанская А. В., Подольская Н. В., Васильева Н. В. (2003). Общая терминология: вопросы теории. М.: КомКнига,
-source4,,Володина М. Н. (2000). Термин как средство профессиональной коммуникации. М.: Изд-во МГУ,
-source5,,Campos R., Mangaravite V., Pasquali A., et al. (2020). YAKE! Keyword extraction from single documents using multiple local features. Information Sciences, 509, 257-289,https://doi.org/10.1016/j.ins.2019.09.013
-source6,,Rose S., Engel D., Cramer N., Cowley W. (2001). Automatic Keyword Extraction from Individual Documents. Text Mining: Applications and Theory, 1-20,
-source7,,Frantzi K., Ananiadou S., Mima H. (2000). Automatic recognition of multi-word terms: the C-value/NC-value method. International Journal of Digital Libraries, 3(2), 115-130,https://doi.org/10.1007/s007999900023
-source8,,Nakagawa H., Mori T. (2002). Simple but powerful automatic term extraction method with multiple domain corpora. Proceedings of the 8th EURALEX International Congress, 297-307,
-source9,,Justeson J. S., Katz S. M. (1995). Technical Terminology: Some Linguistic Properties and an Algorithm for Identification in Text. Natural Language Engineering, 1(1), 9-27,https://doi.org/10.1017/S1351324900001357
-source10,,Daille B. (1994). Approche mixte pour l'extraction automatique de terminologie: statistique lexicale et filtres linguistiques. Thèse de doctorat, Université Paris 7,
-source11,,Шелов С. Д. (2003). Определение термина и терминологическая дефиниция. Терминология и знание: материалы международного симпозиума, 209-230,
-source12,,Sclano F., Velardi P. (2007). TermExtractor: A Web Application for Learning the Terminology of a Domain. Proceedings of the 3rd International Conference on Natural Language Processing (GoTAL), 241-253,
-source13,,Reimers N., Gurevych I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. EMNLP-IJCNLP, 3982-3992,https://doi.org/10.18653/v1/D19-1410
-source14,,Mikolov T., Sutskever I., Chen K., Corrado G., Dean J. (2013). Distributed Representations of Words and Phrases and their Compositionality. NeurIPS, 26, 3111-3119,
-source15,,Pennington J., Socher R., Manning C. (2014). GloVe: Global Vectors for Word Representation. EMNLP, 1532-1543,https://doi.org/10.3115/v1/D14-1162
-source16,,Devlin J., Chang M.-W., Lee K., Toutanova K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL-HLT, 4171-4186,
-source17,,Grootendorst M. (2022). BERTopic: Neural topic modeling with a class-based TF-IDF procedure. arXiv preprint, arXiv:2203.05794,https://arxiv.org/abs/2203.05794
-source18,,Witten I. H., Meddows D., Frank E. (1999). KEA: Practical Automatic Keyphrase Extraction. Proceedings of the 4th ACM Conference on Digital Libraries, 254-255,https://doi.org/10.1145/3130348.3130401
-source19,,Grootendorst M. (2020). KeyBERT: Minimal keyword extraction with BERT. GitHub repository / documentation,https://github.com/MaartenGr/KeyBERT
+source1, ,Головин Б. Н., Кобрин Р. Ю. (1987). Лингвистические основы учения о термине. М.: Высшая школа,
+source2, ,Лейчик В. М. (2007). Терминоведение: предмет, методы, структура. М.: ЛКИ,
+source3, ,Суперанская А. В., Подольская Н. В., Васильева Н. В. (2003). Общая терминология: вопросы теории. М.: КомКнига,
+source4, ,Володина М. Н. (2000). Термин как средство профессиональной коммуникации. М.: Изд-во МГУ,
+source5, ,Campos R., Mangaravite V., Pasquali A., et al. (2020). YAKE! Keyword extraction from single documents using multiple local features. Information Sciences, 509, 257-289,https://doi.org/10.1016/j.ins.2019.09.013
+source6, ,Rose S., Engel D., Cramer N., Cowley W. (2001). Automatic Keyword Extraction from Individual Documents. Text Mining: Applications and Theory, 1-20,
+source7, ,Frantzi K., Ananiadou S., Mima H. (2000). Automatic recognition of multi-word terms: the C-value/NC-value method. International Journal of Digital Libraries, 3(2), 115-130,https://doi.org/10.1007/s007999900023
+source8, ,Nakagawa H., Mori T. (2002). Simple but powerful automatic term extraction method with multiple domain corpora. Proceedings of the 8th EURALEX International Congress, 297-307,
+source9, ,Justeson J. S., Katz S. M. (1995). Technical Terminology: Some Linguistic Properties and an Algorithm for Identification in Text. Natural Language Engineering, 1(1), 9-27,https://doi.org/10.1017/S1351324900001357
+source10, ,Daille B. (1994). Approche mixte pour l'extraction automatique de terminologie: statistique lexicale et filtres linguistiques. Thèse de doctorat, Université Paris 7,
+source11, ,Шелов С. Д. (2003). Определение термина и терминологическая дефиниция. Терминология и знание: материалы международного симпозиума, 209-230,
+source12, ,Sclano F., Velardi P. (2007). TermExtractor: A Web Application for Learning the Terminology of a Domain. Proceedings of the 3rd International Conference on Natural Language Processing (GoTAL), 241-253,
+source13, ,Reimers N., Gurevych I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. EMNLP-IJCNLP, 3982-3992,https://doi.org/10.18653/v1/D19-1410
+source14, ,Mikolov T., Sutskever I., Chen K., Corrado G., Dean J. (2013). Distributed Representations of Words and Phrases and their Compositionality. NeurIPS, 26, 3111-3119,
+source15, ,Pennington J., Socher R., Manning C. (2014). GloVe: Global Vectors for Word Representation. EMNLP, 1532-1543,https://doi.org/10.3115/v1/D14-1162
+source16, ,Devlin J., Chang M.-W., Lee K., Toutanova K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL-HLT, 4171-4186,
+source17, ,Grootendorst M. (2022). BERTopic: Neural topic modeling with a class-based TF-IDF procedure. arXiv preprint, arXiv:2203.05794,https://arxiv.org/abs/2203.05794
+source18, ,Witten I. H., Meddows D., Frank E. (1999). KEA: Practical Automatic Keyphrase Extraction. Proceedings of the 4th ACM Conference on Digital Libraries, 254-255,https://doi.org/10.1145/3130348.3130401
+source19, ,Grootendorst M. (2020). KeyBERT: Minimal keyword extraction with BERT. GitHub repository / documentation,https://github.com/MaartenGr/KeyBERT
